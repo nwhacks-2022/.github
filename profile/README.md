@@ -1,6 +1,6 @@
 # talko
 
-![alt text](https://github.com/nwhacks-2022/.github/blob/main/assets/smile.png?raw=true)
+![alt text](https://github.com/nwhacks-2022/.github/blob/main/assets/logo.png?raw=true)
 
 Hello! talko is a project for nwHacks 2022.
 
@@ -22,7 +22,7 @@ immediate feedback on how fast you're talking and view previous recordings.
 ## Technical Overview
 --> Frontend overview
 
-We created the backend using Nodejs and Express. The api handles uploading and saving recordings, as well as retrieving them.
+We created the backend using Nodejs and Express. The api handles uploading, saving and retrieving recordings, as well as fetching random questions from our question bank. We stored audio files in Microsoft Azure storage, and data and questions in Google Cloud Firestore.
 
 ## Challenges & Accomplishments
 Creating this project in just 24 hours was quite the challenge! While we have worked with some of these tools before,
