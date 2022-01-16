@@ -1,6 +1,6 @@
 # talko
 
-![alt text](https://github.com/nwhacks-2022/.github/blob/main/assets/logo.png?raw=true)
+<img src="https://github.com/nwhacks-2022/.github/blob/main/assets/logo.png?raw=true" alt="drawing" width="180"/>
 
 Hello! talko is a project for nwHacks 2022.
 
@@ -45,6 +45,6 @@ this weekend.
 - Microsoft Azure
 - Google Cloud Firestore
 
- <img src="https://github.com/nwhacks-2022/.github/blob/main/assets/rainbow.png?raw=true" alt="drawing" width="200"/>
+<img src="https://github.com/nwhacks-2022/.github/blob/main/assets/rainbow.png?raw=true" alt="drawing" width="180"/>
 
 ### Thanks for visiting!
