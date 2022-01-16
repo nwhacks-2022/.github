@@ -1,18 +1,25 @@
 # talko
 
+![alt text](https://github.com/nwhacks-2022/.github/blob/main/assets/smile.png?raw=true)
+
 Hello! talko is a project for nwHacks 2022.
+
+Interviews can be scary, but they don't have to be! We believe that practice and experience is what gives you the
+confidence you need to show interviewers what you're made of. talko is made for students and new graduates who want to
+learn to fully express their skills in interviews. With everything online, it's even more important now that you can
+get your thoughts across clearly virtually.
+
+As students who have been and will be looking for co-ops, we know very well how stressful interview season can be;
+we took this as our source of inspiration for talko.
 
 talko is an app that helps you practice for interviews. Record and time your answers to interview questions to get
 immediate feedback on how fast you're talking and view previous recordings.
 
-Interviews can be scary, but they don't have to be! We believe that practice and experience is what gives you the
-confidence you need to show interviewers what you're made of.
-
 ## Features
 - Feedback after every question: get your words per minute and learn to pace yourself while answering questions.
-- Adorable robots.
+- Adorable robots!!
 
-## Technical Overiview
+## Technical Overview
 --> Frontend overview
 
 We created the backend using Nodejs and Express. The api handles uploading and saving recordings, as well as retrieving them.
@@ -32,7 +39,12 @@ this weekend.
 
 ## Built using
 - Nodejs
+- React
 - Express
 - ffmpeg
 - Microsoft Azure
 - Google Cloud Firestore
+
+ <img src="https://github.com/nwhacks-2022/.github/blob/main/assets/rainbow.png?raw=true" alt="drawing" width="200"/>
+
+### Thanks for visiting!
